@@ -1,0 +1,34 @@
+2021-02-09 13:12:47.109		CAN-FD	784	Tx	746       	6	7E 9D 67 D1 EF BC                     	CAN_FD_raw_frame_invalid_frame | ID784_cyclic_msg_rate_25_ms |
+2021-02-09 13:12:47.109		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Instrumentation after | Instrumentation request
+2021-02-09 13:12:47.214		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:47.315		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:47.416		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:47.518		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:47.618		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:47.719		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:47.820		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:47.921		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:48.021		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:48.122		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:48.223		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:48.324		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:48.426		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:48.526		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:48.627		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:48.728		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:48.829		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:48.931		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:49.032		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:49.134		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:49.234		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:49.335		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:49.436		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:49.536		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:49.637		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:49.738		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:49.838		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:49.939		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:50.040		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:50.141		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:50.242		CAN-FD	784	Tx	11111111  	8	02 10 03 00 00 00 00 00               	Instrumentation | Attempt | Instrumentation request
+2021-02-09 13:12:50.246		CAN-FD	784	Rx	99999999  	8	06 50 03 00 64 01 F4 55               	Instrumentation | Response | Instrumentation response
